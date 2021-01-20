@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/c++ new 2021/cMakePractise/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/myFirstProject.dir/main.cpp.o -c \"/home/dell/my/c++ new 2021/cMakePractise/main.cpp\"",
+  "file": "/home/dell/my/c++ new 2021/cMakePractise/main.cpp"
+}
+]

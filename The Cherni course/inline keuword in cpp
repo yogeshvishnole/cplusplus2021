@@ -1,0 +1,4 @@
+Inline key word before a function make that function inline 
+means when we call that function there no other stack is created for that function
+instead the content of inline is pasted where that is used.
+

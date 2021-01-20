@@ -1,0 +1,36 @@
+Header file is a file in c++ is to generally declare the functions variables and all other constructs
+so that we do not have to define bby ourseleves in everyfile where we use that funcction.
+
+so header file contains declarations
+
+extension .h
+
+#pragma once
+
+start with # --> preprocessor directive or preprocessr command
+
+#pragma once is used as header guard
+means it prevents us from including the a header file for more than once in a single translational unit.
+(think of chain of include to it be happen)
+
+#pragma once --> is new thing earliier to it we use the following to prevent duplicat errors
+
+#ifndef \_LOG_H
+#define \_LOG_H
+void log(const char\* message)
+#endif
+
+# Difference between quotes and angular brackets
+
+quotes --> to include any file
+angular brackets --> to include files which are in include path
+we are learning about include path later
+
+# iostream has no extension why
+
+iostream is a header file from c++ standard library
+to distinguish c++ library files from c library files
+c++ library developers make them wiithout extension so one cann easilt determine
+
+#include<iostream> --> c++
+#include<stdlib.h> --> c

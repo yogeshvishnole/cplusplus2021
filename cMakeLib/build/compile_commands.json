@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/c++ new 2021/cMakeLib/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/firstLib.dir/firstLib.cpp.o -c \"/home/dell/my/c++ new 2021/cMakeLib/firstLib.cpp\"",
+  "file": "/home/dell/my/c++ new 2021/cMakeLib/firstLib.cpp"
+}
+]

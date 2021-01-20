@@ -1,0 +1,16 @@
+for deufg a cpp file compile it with -g flag
+
+example g++ -g functions.cpp
+
+it will output a file a.out
+
+to debug with gdb 
+
+use command
+
+gdb ./a.out
+
+l --> list our code
+b line_no. --> set a breakpoint
+enable b
+disable b

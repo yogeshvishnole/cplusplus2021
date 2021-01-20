@@ -1,0 +1,1 @@
+/bin/clang++-10  -g  -rdynamic CMakeFiles/Iteratirs.dir/main.cpp.o  -o Iteratirs 
