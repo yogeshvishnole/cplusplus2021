@@ -57,27 +57,27 @@ include CMakeFiles/geeksProblems.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/geeksProblems.dir/flags.make
 
-CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o: CMakeFiles/geeksProblems.dir/flags.make
-CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o: ../maxSubArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/dell/my/c++ new 2021/geeksPractiseProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o"
-	/bin/clang++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o -c "/home/dell/my/c++ new 2021/geeksPractiseProject/maxSubArray.cpp"
+CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o: CMakeFiles/geeksProblems.dir/flags.make
+CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o: ../optimizedMaxSubArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/dell/my/c++ new 2021/geeksPractiseProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o"
+	/bin/clang++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o -c "/home/dell/my/c++ new 2021/geeksPractiseProject/optimizedMaxSubArray.cpp"
 
-CMakeFiles/geeksProblems.dir/maxSubArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/geeksProblems.dir/maxSubArray.cpp.i"
-	/bin/clang++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/dell/my/c++ new 2021/geeksPractiseProject/maxSubArray.cpp" > CMakeFiles/geeksProblems.dir/maxSubArray.cpp.i
+CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.i"
+	/bin/clang++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/dell/my/c++ new 2021/geeksPractiseProject/optimizedMaxSubArray.cpp" > CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.i
 
-CMakeFiles/geeksProblems.dir/maxSubArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/geeksProblems.dir/maxSubArray.cpp.s"
-	/bin/clang++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/dell/my/c++ new 2021/geeksPractiseProject/maxSubArray.cpp" -o CMakeFiles/geeksProblems.dir/maxSubArray.cpp.s
+CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.s"
+	/bin/clang++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/dell/my/c++ new 2021/geeksPractiseProject/optimizedMaxSubArray.cpp" -o CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.s
 
 # Object files for target geeksProblems
 geeksProblems_OBJECTS = \
-"CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o"
+"CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o"
 
 # External object files for target geeksProblems
 geeksProblems_EXTERNAL_OBJECTS =
 
-geeksProblems: CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o
+geeksProblems: CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o
 geeksProblems: CMakeFiles/geeksProblems.dir/build.make
 geeksProblems: CMakeFiles/geeksProblems.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/dell/my/c++ new 2021/geeksPractiseProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable geeksProblems"

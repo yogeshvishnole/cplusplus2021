@@ -14,7 +14,7 @@ CostDataFile:
 Site: dell-Vostro-15-3568
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-g++-9
+BuildName: Linux-clang++-10
 
 # Subprojects
 LabelsForSubprojects: 
@@ -62,8 +62,8 @@ UpdateOptions:
 UpdateType: 
 
 # Compiler info
-Compiler: /bin/g++-9
-CompilerVersion: 9.3.0
+Compiler: /bin/clang++-10
+CompilerVersion: 10.0.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 
@@ -71,7 +71,7 @@ ValgrindCommand:
 ValgrindCommandOptions: 
 MemoryCheckType: 
 MemoryCheckSanitizerOptions: 
-MemoryCheckCommand: /usr/bin/valgrind
+MemoryCheckCommand: MEMORYCHECK_COMMAND-NOTFOUND
 MemoryCheckCommandOptions: 
 MemoryCheckSuppressionFile: 
 

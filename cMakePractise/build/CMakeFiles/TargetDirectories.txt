@@ -8,9 +8,11 @@
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ContinuousBuild.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/NightlyConfigure.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/NightlyMemoryCheck.dir
+/home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ExperimentalTest.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ContinuousUpdate.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/NightlyUpdate.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ExperimentalMemCheck.dir
+/home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/cmakeboost.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ExperimentalSubmit.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/Experimental.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ContinuousCoverage.dir
@@ -30,5 +32,3 @@
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ContinuousMemCheck.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ContinuousTest.dir
 /home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ContinuousSubmit.dir
-/home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/ExperimentalTest.dir
-/home/dell/my/c++ new 2021/cMakePractise/build/CMakeFiles/myFirstProject.dir

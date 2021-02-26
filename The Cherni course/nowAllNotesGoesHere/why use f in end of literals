@@ -1,0 +1,10 @@
+use f in end of literals because
+point literals like 2.34 5.56 etc are 
+by default double but if we want them to be float put the like
+2.34f, 5.56f.
+
+Special case
+float f = 2.34;
+in above case 2.34 is automatically convereted to float by compiler (called implicit conversion)
+but for a very small bit speed benefit you can use as
+float f = 2.34f;

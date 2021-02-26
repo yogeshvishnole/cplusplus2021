@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o"
+  "CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o"
   "geeksProblems"
   "geeksProblems.pdb"
 )

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/dell/my/c++ new 2021/geeksPractiseProject/maxSubArray.cpp" "/home/dell/my/c++ new 2021/geeksPractiseProject/build/CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o"
+  "/home/dell/my/c++ new 2021/geeksPractiseProject/optimizedMaxSubArray.cpp" "/home/dell/my/c++ new 2021/geeksPractiseProject/build/CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

@@ -520,32 +520,32 @@ ContinuousSubmit/fast:
 	$(MAKE) -f CMakeFiles/ContinuousSubmit.dir/build.make CMakeFiles/ContinuousSubmit.dir/build
 .PHONY : ContinuousSubmit/fast
 
-maxSubArray.o: maxSubArray.cpp.o
+optimizedMaxSubArray.o: optimizedMaxSubArray.cpp.o
 
-.PHONY : maxSubArray.o
+.PHONY : optimizedMaxSubArray.o
 
 # target to build an object file
-maxSubArray.cpp.o:
-	$(MAKE) -f CMakeFiles/geeksProblems.dir/build.make CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o
-.PHONY : maxSubArray.cpp.o
+optimizedMaxSubArray.cpp.o:
+	$(MAKE) -f CMakeFiles/geeksProblems.dir/build.make CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o
+.PHONY : optimizedMaxSubArray.cpp.o
 
-maxSubArray.i: maxSubArray.cpp.i
+optimizedMaxSubArray.i: optimizedMaxSubArray.cpp.i
 
-.PHONY : maxSubArray.i
+.PHONY : optimizedMaxSubArray.i
 
 # target to preprocess a source file
-maxSubArray.cpp.i:
-	$(MAKE) -f CMakeFiles/geeksProblems.dir/build.make CMakeFiles/geeksProblems.dir/maxSubArray.cpp.i
-.PHONY : maxSubArray.cpp.i
+optimizedMaxSubArray.cpp.i:
+	$(MAKE) -f CMakeFiles/geeksProblems.dir/build.make CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.i
+.PHONY : optimizedMaxSubArray.cpp.i
 
-maxSubArray.s: maxSubArray.cpp.s
+optimizedMaxSubArray.s: optimizedMaxSubArray.cpp.s
 
-.PHONY : maxSubArray.s
+.PHONY : optimizedMaxSubArray.s
 
 # target to generate assembly for a file
-maxSubArray.cpp.s:
-	$(MAKE) -f CMakeFiles/geeksProblems.dir/build.make CMakeFiles/geeksProblems.dir/maxSubArray.cpp.s
-.PHONY : maxSubArray.cpp.s
+optimizedMaxSubArray.cpp.s:
+	$(MAKE) -f CMakeFiles/geeksProblems.dir/build.make CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.s
+.PHONY : optimizedMaxSubArray.cpp.s
 
 # Help Target
 help:
@@ -587,9 +587,9 @@ help:
 	@echo "... ContinuousMemCheck"
 	@echo "... ContinuousTest"
 	@echo "... ContinuousSubmit"
-	@echo "... maxSubArray.o"
-	@echo "... maxSubArray.i"
-	@echo "... maxSubArray.s"
+	@echo "... optimizedMaxSubArray.o"
+	@echo "... optimizedMaxSubArray.i"
+	@echo "... optimizedMaxSubArray.s"
 .PHONY : help
 
 

@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/dell/my/c++ new 2021/geeksPractiseProject/build",
-  "command": "/bin/clang++-10    -g   -o CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o -c \"/home/dell/my/c++ new 2021/geeksPractiseProject/maxSubArray.cpp\"",
-  "file": "/home/dell/my/c++ new 2021/geeksPractiseProject/maxSubArray.cpp"
+  "command": "/bin/clang++-10    -g   -o CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o -c \"/home/dell/my/c++ new 2021/geeksPractiseProject/optimizedMaxSubArray.cpp\"",
+  "file": "/home/dell/my/c++ new 2021/geeksPractiseProject/optimizedMaxSubArray.cpp"
 }
 ]

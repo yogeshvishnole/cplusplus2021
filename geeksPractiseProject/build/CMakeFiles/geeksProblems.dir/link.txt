@@ -1,1 +1,1 @@
-/bin/clang++-10  -g  -rdynamic CMakeFiles/geeksProblems.dir/maxSubArray.cpp.o  -o geeksProblems 
+/bin/clang++-10  -g  -rdynamic CMakeFiles/geeksProblems.dir/optimizedMaxSubArray.cpp.o  -o geeksProblems 
